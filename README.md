@@ -1,5 +1,4 @@
-## cityofchicago_taxitrips
-Optimizing Traffic Fleet Management and​ Reducing Traffic Congestion
+## Optimizing Traffic Fleet Management and​ Reducing Traffic Congestion
 
 ### Summary
 This project optimizes taxi fleet management using Big Data Management tools like Apache Spark. ​
